@@ -1,0 +1,14 @@
+{
+  "name": "web-scraping-homework",
+  "version": "0.0.1",
+  "description": "Homework about Scrape of web(crautos).",
+  "main": "server.js",
+  "author": "Carlos Mario Villafuerte Díaz",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "hotnode": "0.0.8",
+    "mongodb": "2.2.33",
+    "request": "^2.87.0"
+  }
+}

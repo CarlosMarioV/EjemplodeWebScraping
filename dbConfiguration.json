@@ -1,0 +1,11 @@
+{
+    "title": "Archivo configuración de MongoDB",
+    "description": "Archivo de configuración con los parámetros necesarios para establecer la conexión a mongodb",
+    "params": {
+        "host": "localhost",
+        "port": 27017,
+        "user": "test",
+        "password": "test",
+        "database": "dataScraping"
+    }
+}
